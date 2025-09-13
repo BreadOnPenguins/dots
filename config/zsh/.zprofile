@@ -1,6 +1,6 @@
 #!/bin/sh
 # env vars to set on login, zsh settings in ~/config/zsh/.zshrc
-# read first
+# add `export ZDOTDIR="$HOME/.config/zsh"` to /etc/zsh/zshenv in order to place this file at .config/zsh/.zprofile
 
 # default programs
 export EDITOR="nvim"
