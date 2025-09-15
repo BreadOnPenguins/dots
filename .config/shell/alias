@@ -16,3 +16,11 @@ df="df -h" \
 du="du -h -d 1" \
 k="killall" \
 p="ps aux | grep $1" \
+man="batman" \
+lsbc="lsblk | bat -l conf -p" \
+freec="free -h | bat -l cpuinfo -p" \
+sensors="sensors | bat -l cpuinfo -p" \
+bathelp='bat --plain --language=help'
+help() {
+    "$@" --help 2>&1 | bathelp
+}
