@@ -95,6 +95,7 @@ c.auto_save.session = True # save tabs on quit/restart
 # keybinding changes
 config.bind('=', 'cmd-set-text -s :open')
 config.bind('h', 'history')
+config.bind('cc', 'hint images spawn sh -c "cliphist link {hint-url}"')
 config.bind('cs', 'cmd-set-text -s :config-source')
 config.bind('tH', 'config-cycle tabs.show multiple never')
 config.bind('sH', 'config-cycle statusbar.show always never')
