@@ -1,4 +1,5 @@
 // ==UserScript==
+// for more updated scripts, see: https://greasyfork.org/en/scripts/by-site/youtube.com
 // @name         Auto Skip YouTube Ads
 // @version      1.1.0
 // @description  Speed up and skip YouTube ads automatically
