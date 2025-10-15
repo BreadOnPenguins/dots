@@ -1,6 +1,7 @@
 currently includes configuration for:
 
 - dunst
+- gimp
 - picom
 - rmpc
 - wal templates and colorschemes
