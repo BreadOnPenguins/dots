@@ -9,5 +9,9 @@ currently includes configuration for:
 - general shell stuff
 - zsh
 
+
+and shortcut bindings for:
+- kdenlive
+
 my builds/configs of dwm, st, and neovim each have their own repo, as do my scripts for dmenu and dwmblocks.
 fonts: Noto Sans Nerd Fonts, Liberation family, Libertinus family.
