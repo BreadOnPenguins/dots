@@ -1,5 +1,6 @@
 alias \
 \
+2m="for f in *(png|jpg)(LM+2); do mogrify -scale 97% $f; done" \
 c="clear" \
 v="nvim" \
 f="fff" \
