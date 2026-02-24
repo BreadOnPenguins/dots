@@ -1,0 +1,2 @@
+# add scripts to path
+export PATH="$XDG_CONFIG_HOME/scripts:$PATH"

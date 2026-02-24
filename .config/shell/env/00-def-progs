@@ -1,0 +1,8 @@
+# default programs
+export EDITOR="nvim"
+export TERM="st"
+export TERMINAL="st"
+export MUSPLAYER="termusic"
+export BROWSER="firefox"
+export BROWSER2="librewolf"
+# export DISPLAY=:0 # useful for some scripts
